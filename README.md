@@ -6,7 +6,6 @@ Screenshoter Save.exe:
 Opens a GUI that allows the user to insert the absolute path for the screenshot
 
 diretorio.txt:
-
 An text file that will store the path assigned by the user
 
 Screenshoter.exe:
