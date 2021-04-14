@@ -15,9 +15,12 @@ The main file that takes the screenshot
 # How to use?
 
 First you need to open the Screenshoter Save.exe file for the first time and select a folder for the .png file
-After that you don't need to open this file ever again, only if you want to change the directory
+After that you won't need to open this file ever again, only if you want to change the directory
 
 The next thing you'll want to do is to make the Screenshoter.exe file start with your OS
-so you won't need to open every time
+so you won't need to open every time*
 
-Finally to make it work you need to the left ALT key and then ALT Gr simultaneously
+Finally to make it work you need to the left ALT key and then ALT Gr simultaneously - like a phone printscreen :)
+
+*For being a low privilege application it won't normally work with some other apps, specially games, unless 
+you open the Screenshoter.exe as admin.
