@@ -24,5 +24,4 @@ Finally to make it work you need to press the left ALT key and then ALT Gr simul
 **For being a low privilege application it won't normally work with some other apps, specially games, unless 
 you open the Screenshoter.exe as admin.*
 
-#
-# Ready-to-use application in "App.7z" file.
+###### Ready-to-use application in "App.7z" file.
