@@ -14,7 +14,7 @@ The main file that takes the screenshot
 
 # How to use?
 
-First you need to open the Screenshoter Save.exe file for the first time and select a folder for the .png file. After that you won't need to open this file ever again, only if you want to change the directory
+First you need to open the Screenshoter Save.exe file for the first time and select a folder (the path) for the .png file. After that you won't need to open this file ever again, only if you want to change the directory
 
 The next thing you'll want to do is to make the Screenshoter.exe file start with your OS
 so you won't need to open every time*
